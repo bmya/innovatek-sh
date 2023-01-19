@@ -12,3 +12,7 @@
 	path = bmya/website-connectors
 	url = git@github.com:bmya/website-connectors.git
 	branch = 16.0_multivende
+[submodule "innovatek"]
+	path = innovatek
+	url = git@github.com:bmya/innovatek.git
+	branch = 16.0
