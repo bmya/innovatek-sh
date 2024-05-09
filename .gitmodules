@@ -23,3 +23,6 @@
 	path = OCA/server-backend
 	url = https://github.com/OCA/server-backend.git
 	branch = 16.0
+[submodule "bmya/bmya-enterprise-release"]
+	path = bmya/bmya-enterprise-release
+	url = git@github.com:bmya/bmya-enterprise-release.git
