@@ -1,24 +1,25 @@
 [submodule "bmya/odoo-bmya"]
 	path = bmya/odoo-bmya
 	url = git@github.com:bmya/odoo-bmya.git
-	branch = 16.0
+	branch = 16.0-dev
 
 [submodule "bmya/bmya-enterprise"]
 	path = bmya/bmya-enterprise
 	url = git@github.com:bmya/bmya-enterprise.git
-	branch = 16.0
+	branch = 16.0-dev
 
 [submodule "bmya/website-connectors"]
 	path = bmya/website-connectors
 	url = git@github.com:bmya/website-connectors.git
-	branch = 16.0_multivende
+	branch = 16.0_multivende-dev
 [submodule "innovatek"]
 	path = innovatek
 	url = git@github.com:bmya/innovatek.git
-	branch = 16.0
+	branch = 16.0-dev
 [submodule "OCA/sale-workflow"]
 	path = OCA/sale-workflow
 	url = https://github.com/OCA/sale-workflow
+        branch = 16.0
 [submodule "OCA/server-backend"]
 	path = OCA/server-backend
 	url = https://github.com/OCA/server-backend.git
@@ -26,3 +27,4 @@
 [submodule "bmya/bmya-enterprise-release"]
 	path = bmya/bmya-enterprise-release
 	url = git@github.com:bmya/bmya-enterprise-release.git
+        branch = 16.0-dev
